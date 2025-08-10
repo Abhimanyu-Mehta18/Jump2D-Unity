@@ -1,4 +1,4 @@
-# Jump2D-Unity
+# Jump2D - Unity
 
 # 🎮 Simple 2D Jump Game (Unity Project)
 
